@@ -11,6 +11,10 @@ Lawmaster看Grayscale Bitcoin Trust流入判断机构投资者
 
 Missed Stella largely due to  not knowing the intrinsic well
 
+一年后会有两种废人。一种是投了数字货币，啥也不用干的废人；另一种是没投数字货币，拍断大腿的废人。
 
 今年拿出去年抗亏损的一半勇气抗盈利就行了-by 知行大佬Just use half of the dare that you HODL from December17, to HODL against the desire to take profit too early this year?
+
+ df_metadata[df_metadata['Datatype']=='object']
+
 ### The best advice given by Drop PhD 4Chain (DP4Chain) and XY- put limit order at 200% price for 50% bought, after your buy order!
