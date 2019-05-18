@@ -19,6 +19,10 @@ Missed Stella largely due to  not knowing the intrinsic well
 
  df_metadata[df_metadata['Datatype']=='object']
 
-### The best advice given by Drop PhD 4Chain (DP4Chain) and XY
+### The best advice given by Drop PhD 4Chain (DP4Chain) and XY  - put limit order at 200% price for 50% bought, after your buy order!
 
-- put limit order at 200% price for 50% bought, after your buy order!
+> ## Blockquoted header
+>
+> This is blockquoted text.
+>
+> This is a second paragraph within the blockquoted text.
