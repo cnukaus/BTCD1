@@ -23,10 +23,13 @@ Missed Stella largely due to  not knowing the intrinsic well
  df_metadata[df_metadata['Datatype']=='object']
 >### by 石头:\ 
 >抹茶MX平台币半年从0.0011到0.139美元，百倍了。下一个百倍币计划的项目2是？LAD据说只是战略合作。
+章鱼链PS,确定上Biki, OCX,mx, 898, ZEX (CEO)
+没落交易所Bilaxy(Dock), Gate, Kucoin,Lbank(NPS)
 
 >### The best advice given by Drop PhD 4Chain (DP4Chain) and XY  
 >
 > put limit order at 200% price for 50% bought, after your buy order!
+
 
 
 
