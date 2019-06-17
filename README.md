@@ -9,6 +9,9 @@ Lawmaster看Grayscale Bitcoin Trust流入判断机构投资者
 
 以后必须是买完自动挂单出本金。。。Otherwise forgot to sell Kcash ~10thMay19, FDS 17/05/19
 
+
+押宝不能太自信，孤掷一注不如孤掷2注。JP大佬只买GRIN，一类只买一个，不对。
+
 Missed Stella largely due to  not knowing the intrinsic well
 
 一年后会有两种废人。一种是投了数字货币，啥也不用干的废人\
