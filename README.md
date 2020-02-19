@@ -1,5 +1,7 @@
 ## BTCD1 比特币 以太坊等加密货币中文数据分析第一手报导
 
+Since Binance delist BSV, the potential upside of BSV price is clear
+
 2019年5月10日申明月前已经梭哈（真梭但没卖房那种，3000点准备去抵押）
 10th May 2019 annouced ALL IN in March19.Saw 40% price growth in BTC in the following 4 days.
 
