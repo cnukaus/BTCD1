@@ -1,5 +1,8 @@
 ## BTCD1 比特币 以太坊等加密货币中文数据分析第一手报导
 
+Since Aug 2020, the repo will be part of my effort to transparently review Crypto projects/codebase/token issurrance. I am also willing to give casual comments regarding your digital asset ( I am not certified in any financial advising etc, I am a IT veteran with long experience in Bitcoin)
+将专注于评估项目技术，是否有夸大，大V历史言论是否可靠等方面。您可以免费发问，也可以打赏，如果对回答不满意，我会发打脸红包，或$0.5 worth of BSV/ETH
+
 Since Binance delist BSV, the potential upside of BSV price is clear
 
 2019年5月10日申明月前已经梭哈（真梭但没卖房那种，3000点准备去抵押）
