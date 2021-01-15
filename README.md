@@ -1,9 +1,9 @@
-## BTCD1 比特币 以太坊等加密货币中文数据分析第一手报导
+## BTCD1 比特币 以太坊等加密货币中文数据分析第一手报导 ahr999的指数屯币
 
 Since Aug 2020, the repo will be part of my effort to transparently review Crypto projects/codebase/token issurrance. I am also willing to give casual comments regarding your digital asset ( I am not certified in any financial advising etc, I am a IT veteran with long experience in Bitcoin)
 将专注于评估项目技术，是否有夸大，大V历史言论是否可靠等方面。您可以免费发问，也可以打赏，如果对回答不满意，我会发打脸红包，或$0.5 worth of BSV/ETH
 
-2021:ahr999 hodler index: price/200d avg price * (price/ exponetion growth estimation). He now got a new index (Top signal, ahr999x) but is not going to open source again. 200日平均定投成本 和 比特币拟合价格。
+2021:ahr999 hodler index: price/200d avg price * (price/ exponetion growth estimation). He now got a new index (Top signal, ahr999x) but is not going to open source again. 200日平均定投成本 和 比特币拟合价格。拟合的方程是，币价 = 10^[5.84log(币龄)-17.01]，现在已经发生了变化，币价 = 10^[5.80log(币龄)-16.88] （见图1）。另外，那个时候200日定投的均价是9000刀，现在只有7800刀了。
 
 Since Binance delist BSV, the potential upside of BSV price is clear
 
