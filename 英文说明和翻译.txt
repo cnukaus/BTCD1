@@ -1,0 +1,86 @@
+## Transparent strategy platform from PhP memorial Fund
+
+Always day 1 in the new metaverse world, so be open, connect, learn and share.
+
+Money/Moon is just a by-product, it is not the goal and one day you will realise not as important as other valuable things
+
+This repo will contain quant methods to evaluate crypto yield strategies, and we hope it is simple enough that a 10 year old student or a 70 yo man can use it.
+
+Reliable, simple to follow.
+
+We acknowledge: not everything will be 100% reliable, so we make evaluation, save minimal and most important things, then make trade-off as needed
+
+we make things scalable. We use available tools but do not hesitate to modify/build own tool.
+
+Example of how to choose a notes-taking tool:
+
+Notion beats Evernote/Onenote by the way its flexible management of meta paragraphs, not open source but free and easy to export, so for non-confidential use, it is sufficient and we don't need Roam.
+
+
+### Initial Investment: 
+
+30% in ETH/Stablecoin pair liquidity pool (Uni v3), this is essentially'buying the dip and sell the rise', for example when range of $2k-$5k is chosen, then when price drops to $1999 then I will own only ETH and all USDC are auto-sold along the way , and vice versa, if Eth raise to $4800 then almost all ETH were sold to the pool drainer.
+
+20% in a high grow pair with high volume/TVL rationbeing UNI/ETH
+
+20% in BTC,10% ETH
+
+20% in higher risk investment + arbitrage: IDO (hedged risk (borrow 100 Ray to get cheap acceleraytor tokens), develop automated-trading to pick Fwb (~400%),Karma( loss of capital) Bunny (300%-800%)/Autoshark (95% loss of capital), airdrop, register ENS name/ hire deve to get HNS name
+
+team building/community cultivating, ideally IDO, gitcoin grants, direct funding etc
+
+ Learn a little philosophy may help, for example: for users in developed countries/regions, your resource can give you more time; for users with limited capitl, your time can be your resource - so we can unit.
+
+## Use previous data to back test
+
+## back test other strategies contributed by future contributors 
+
+## Qualitative research that can be semi-automated to assess future performance
+
+
+## 来自PhP纪念基金的透明战略平台
+
+在新的元世界中，永远是第一天，所以要开放、连接、学习和分享。
+
+钱/月只是一个副产品，它不是目标，有一天你会意识到钱不像其他有价值的东西那样重要。
+
+这个回购将包含评估加密货币收益率策略的量化方法，我们希望它足够简单，10岁的学生或70岁的老人都可以使用。
+
+可靠的，简单的，可以遵循的。
+
+我们承认：不是所有的东西都是100%可靠的，所以我们进行评估，保存最小和最重要的东西，然后根据需要进行折衷。
+
+我们使事情具有可扩展性。我们使用现有的工具，但也会毫不犹豫地修改/建立自己的工具。
+
+如何选择一个笔记工具的例子。
+
+Notion胜过Evernote/Onenote，因为它可以灵活地管理元段落，不是开源的，但免费且容易导出，所以对于非保密用途，它就足够了，我们不需要Roam。
+
+###初始投资。
+
+30%在ETH/稳定币对流动性池（Uni v3）中，这基本上是'买跌卖涨'，例如，当选择2K-5K的范围时，那么当价格下降到1999美元时，我将只拥有ETH，所有USDC都被自动卖出，反之亦然，如果Eth上升到4800美元，那么几乎所有ETH都被卖给池中的消耗者。
+
+20%在高成交量/TVL的高增长对中，以UNI/ETH为例
+
+20%在BTC，10%在ETH
+
+20%投资于高风险投资+套利。IDO（对冲风险（借100 Ray来获得廉价的加速器代币），开发自动交易来选择Fwb（~400%），Karma（资本损失）Bunny（300%-800%）/Autoshark（95%的资本损失），在OceanProtocol上的赌注数据，注册ENS名称/雇用deve来获得HNS名称
+
+建立团队/培养社区，最好是IDO、Gitcoin赠款、直接融资等。
+
+学点哲学可能会有帮助，比如：对于发达国家/地区的用户，你的资源可以给你更多的时间；对于资本有限的用户，你的时间可以成为你的资源--这样我们就可以单位。
+
+##使用以前的数据进行回测
+
+##使用海洋协议来回测未来贡献者贡献的其他策略
+
+##用Poap奖励贡献者
+
+##定性研究，可以半自动化地评估未来的表现
+
+F.A.Q
+
+你为什么要开放策略的源代码？
+
+A:
+因为我们在rug the fiat撤法币的场子，所以如果我们在一起，我们的行动就会更稳健（而且风险更低）。

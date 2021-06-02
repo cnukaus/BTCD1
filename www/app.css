@@ -1,0 +1,45 @@
+body {
+
+  background-image: url("bk.jpg");
+
+  background-position: center 0;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+  background-size: cover;
+
+  -webkit-background-size: cover;
+
+  -o-background-size: cover;
+
+  -moz-background-size: cover;
+
+  -ms-background-size: cover;
+
+}
+.main-header{
+    text-align: center;
+    padding: 42px 0;
+    background: #ffffff;
+}
+
+.main-header .branding{
+    font-size: 3.5em;
+    color: #303030;
+}
+
+a{
+    color: #e67e22;
+    outline: none;
+    text-decoration: none;
+}
+
+.main-header .branding img{
+    max-width: 100%;
+}
+
+a:active,a:focus,a img{
+    outline: none;
+}
