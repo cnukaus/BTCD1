@@ -7,8 +7,17 @@ Own 10 Alex or 60 FwB, or 10 Julien
 
 LOTTO.Finance (if you claim, it will start to decrease)
 
+### pay some time to earn token
+[coinbase $10](https://www.coinbase.com/earn?claim=true)
+
 
 ### faucets (ranked by value):
 hns (needs to be a geek)
 https://faucet.chia.net/
 https://matic.supply/
+
+Do it on a sunny day:
+
+http://faucet.kovan.network/
+
+polymarket.com
