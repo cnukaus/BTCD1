@@ -1,0 +1,1 @@
+18/6/2021:MIR测试网2上线，暴涨  https://terra-dev.mirror.finance

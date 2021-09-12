@@ -1,0 +1,3 @@
+Shift+Alt keys and click-and-drag the selection to move 
+
+or try alt+ctrl
