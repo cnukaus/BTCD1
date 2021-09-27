@@ -15,10 +15,17 @@ examples:
 ### Selection criteria:
 
 
-coverage: data fields  covering a significant amount of users are prefered
+1. Coverage: data fields  covering a significant amount of users are prefered
 
 sparse features require more preparation effort to be useful, it is possible to include, maybe sometimes consider to derive/pca/merge sparse ones
 
+2. Battle-tested: Used in previous GR rounds
+
+3. Subject Matter Experts
+
+4. Industry anti-spam resources (curated list, blacklist, IP addresses)
+
+5. based on data source list (asked for it from dao members)
 
 ### V0.1 feature proposal
 
