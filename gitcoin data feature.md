@@ -36,28 +36,23 @@ sparse features require more preparation effort to be useful, it is possible to 
 - Followed
 - watchers
 
- derived or row level
+   derived or row level
 - total issues (summary from all repos)
 - highest open_issues_count of rep
 - total forks (summary from all repos)
 - highest forks of rep
-
+- total stars (summary from all repos)
+- highest stars of rep
 - language, size, created_at, pushed_at date of each repo
 
 
  Data source
-- Is the user followed by an authenticated github account - and history
-
-- Number of repos created
+-  Is the user followed by an authenticated github account - and history
 - Most number of folders created across all repos
 - Most number of files created across all reposts
-- Highest number of stars across all repos
-- Highest number of forks across all repos
-- Highest number of forks across all repos
 - Number of different programming languages used across all repos
 
 [gitcoin.co][behaviour]
--some are derived
 
 Registration, Date/Time
 Last Activity, Date/Time
