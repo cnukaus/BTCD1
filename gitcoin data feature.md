@@ -55,22 +55,35 @@ sparse features require more preparation effort to be useful, it is possible to 
 [gitcoin.co][behaviour]
 
 Registration, Date/Time
+
 Last Activity, Date/Time
+
 kudos collected, int
+
 quest started, int
+
 Quest finished, int
+
 donation row level data (Address, grant, quantity, token, time)
+
 hackathon started count, int
+
 bounty started count, int
-bounty finished count,int 
+
+bounty finished count,int
+
 IP Address row level/summary data (IP, date or first/last date range)
+
 browsing row level data (type of url, date)
+
 changed_default_preference, boolean
+
 count of activities in each GR round
 
  data source TBD
 
 [gitcoin.co][attributes]
+
 email domain (Inherit from Github), string
 Feedback row level/summary
 Built avatar, boolean
@@ -81,7 +94,8 @@ Location, string
 other potential:
 
 [gov.gitcoin.co]
- some data rules already on  [https://www.daostewards.xyz/](https://www.daostewards.xyz/))
+
+Some data rules already on  [https://www.daostewards.xyz/](https://www.daostewards.xyz/))
 [Discord activity raw data]
 
 [user][self_defined_rules]
