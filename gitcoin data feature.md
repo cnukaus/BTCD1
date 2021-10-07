@@ -27,7 +27,7 @@ sparse features require more preparation effort to be useful, it is possible to 
 
 5. based on data source list (asked for it from dao members)
 
-### V0.1 feature name and datatype
+### V0.1.1 feature name and datatype
 
 [api.github.com]
 - Number of repos, int
@@ -48,6 +48,9 @@ sparse features require more preparation effort to be useful, it is possible to 
 - Most number of folders created across all repos, int
 - Most number of files created across all reposts, int
 
+[onchain][]
+- wallet address
+- previous behaviour /# tjayrush had prototype
 
 [gitcoin.co][behaviour]
 
@@ -88,3 +91,4 @@ Other potential:
 
 ### Ref
 [GR10 antifraud report blockscience] (https://medium.com/block-science/evaluating-the-anti-fraud-results-for-gitcoin-round-10-cec9277ce5b2)
+combined dialog with Omnianalytics, Disruption
