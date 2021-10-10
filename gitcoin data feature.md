@@ -49,8 +49,8 @@ sparse features require more preparation effort to be useful, it is possible to 
 - Most number of files created across all reposts, int
 
 [onchain][]
-- wallet address
-- previous behaviour /# tjayrush had prototype
+- wallet address 
+- previous behaviour /# make use of http://tokenomics.io/gitcoin by tjayrush https://github.com/TrueBlocks/tokenomics.io
 
 [gitcoin.co][behaviour]
 
