@@ -20,31 +20,12 @@ aa = bip[19]
 for bin in bin_chunks:
     print(bip[int(bin, 2) - 1], bin, int(bin, 2) - 1)"""
 
-
-str = sys.argv[1] + "00"
 str = sha256(sys.argv[1].encode("utf-8")).hexdigest() + "00"
 print(str)
 
-
-print(
-    bin(int(str, 16))
-    == bin(
-        int(
-            "100001110001100100011111110101110110011011001000100011001111100111101111101000001101101001010110000101011101110110001011110101110010000100100111100111011100100110000011101000000000001010011011001101001010011001001001011010110001100010110110001110100100110000000000",
-            2,
-        )
-    )
-)
-
 bin_pk = bin(int(str, 16))[2:]  # remove leading 0B
-
-print([i for i in range(3)])
 bin_chunks = [bin_pk[i * 11 : (i + 1) * 11] for i in range(24)]
-print(bin_chunks)
-
-
 bip_f = "BIP39.txt"
-
 
 with open(bip_f) as f:
     content = f.read()
